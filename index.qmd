@@ -18,13 +18,15 @@
 
 ### Author Contribution
 
-- Supervision: Chungil (Chad) Chae 
+- Supervision:  
 - Project administration:
-  - Chungil (Chad) Chae
+  - Sookyung Lee
 - Conceptualization:
-  - Chungil (Chad) Chae
+  - Sookyung Lee
 -  Data accusation:
+  - Chungil (Chad) Chae
 -  Data curation:
+  - Chungil (Chad) Chae
 -  Formal analysis:
   - Chungil (Chad) Chae
 - Investigation:
@@ -34,8 +36,10 @@
 - Validation:
 - Visualization:
 - Writing – original draft:
+  - Sookyung Lee
   - Chungil (Chad) Chae
 - Writing – review & editing:
+  - Sookyung Lee
   - Chungil (Chad) Chae
 
 
