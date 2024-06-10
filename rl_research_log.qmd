@@ -1,4 +1,4 @@
 # Research Log {.unnumbered}
 
-## xxxx-xx-xx
-- entry.
+## 2024-06-11
+- [v] 1st biblio report completed
